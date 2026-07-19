@@ -96,25 +96,14 @@ I am a **Cybersecurity Developer and Analyst** passionate about network defense,
 
 ---
 
-## 🏆 Cybersecurity Badges (CTF)
-
-<p align="center">
-  <!-- TryHackMe Badge (Replace with your actual badge URL / details) -->
-  <img src="assets/tryhackme.png" alt="TryHackMe Stats">
-</p>
-
----
 
 ## 📡 Connect with Me
 
 <div align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:spideyx786@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/muhammad-fahad-b52932378/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://discord.com/users/your_discord_tag">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </div>
