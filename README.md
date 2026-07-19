@@ -5,7 +5,7 @@
   <img src="assets/banner.png" alt="SpideyX883 Banner" width="90%" />
 
   <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%3E+Hello%2C+World!;%3E+I%27m+SpideyX883;%3E+Cybersecurity+Researcher+%26+Tool+Developer;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%3E+Hello%2C+World!;%3E+I%27m+Muhammad Fahad (aka SpideyX);%3E+Cybersecurity+Researcher+%26+Tool+Developer;" />
   </h1>
 </div>
 
@@ -15,7 +15,7 @@
 
 I am a **Cybersecurity Developer and Analyst** passionate about network defense, malware detection, forensics, and workflow automation. I focus on engineering robust, low-level tools in Python to analyze cyber threats, secure remote environments, and parse complex traffic patterns.
 
-- 🧬 **Core Focus**: Malware Analysis, Network Intrusion Detection, and Incident Response.
+- 🧬 **Core Focus**: Cloud & Network Security, Malware Analysis, and Incident Response.
 - 🛠️ **Current Projects**: Enhancing remote evidence acquisition and tuning deep learning detection models.
 - ⚡ **Philosophy**: *"In cybersecurity, we don't just build static shields—we spin dynamic, intelligent webs to catch the bugs."*
 
