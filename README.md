@@ -84,7 +84,7 @@ I am a **Cybersecurity Developer and Analyst** passionate about network defense,
 
 ---
 
-## 🎮 Contribution Web (Snake Game)
+## 🎮 Check out my Snake Game
 
 <div align="center">
   <picture>
